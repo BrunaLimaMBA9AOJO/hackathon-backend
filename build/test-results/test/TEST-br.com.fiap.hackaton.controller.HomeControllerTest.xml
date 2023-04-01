@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="br.com.fiap.hackaton.controller.HomeControllerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-04-01T19:37:16" hostname="EDUARDO-PC" time="0.036">
+  <properties/>
+  <testcase name="ok()" classname="br.com.fiap.hackaton.controller.HomeControllerTest" time="0.036"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
