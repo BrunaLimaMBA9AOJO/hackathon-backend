@@ -1,5 +1,5 @@
 name: Build and Test
-run-name: Build and test workflow
+run-name: Build and Test
 on:
     push:
       branches: [ develop ]
