@@ -23,5 +23,3 @@ jobs:
         distribution: 'temurin'
     - name: Build the Docker image
       run: docker build . --file Dockerfile
-      with:
-        arguments: build
