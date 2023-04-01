@@ -16,7 +16,7 @@ permissions:
   contents: read
 
 jobs:
-  build and deploy:
+  Pipeline:
     
     name: Build and Deploy
     runs-on: ubuntu-latest
